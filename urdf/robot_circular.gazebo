@@ -101,4 +101,9 @@
     <material>Gazebo/Blue</material>
 </gazebo>
 
+<gazebo reference="rectangle_link">
+    <material>Gazebo/Yellow</material>
+</gazebo>
+
+
 </robot>
